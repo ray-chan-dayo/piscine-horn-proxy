@@ -1,0 +1,12 @@
+{
+  "name": "piscine-horn-proxy",
+  "version": "1.0.0",
+  "main": "proxyNode.js",
+  "scripts": {
+    "launch": "node proxyNode.js",
+    "update": "git pull && npm run launch"
+  },
+  "author": "",
+  "license": "",
+  "description": ""
+}
